@@ -1,6 +1,19 @@
-.column {
+.column1 {
   width: 300px;
   float: left;
+  background-color: brown;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: rgb(165, 132, 42);
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color:rgb(98, 20, 223);
 }
 
 img {
